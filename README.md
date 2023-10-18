@@ -1,0 +1,1 @@
+This repo collects all my CodeWar katas.
