@@ -7,10 +7,6 @@ This repo collects some of my favourite CodeWar katas.
 |Kyu               |Level  |Language     |Concepts            |
 |:-----------------|-------|-------------|---------------------------------------|
 |Convert A Hex String To RGB |5 kyu|JavaScript||
-
-- 5kyu:
-  - Convert A Hex String To RGB
-- 6kyu:
-  - Split Strings
-  - Good vs Evil 
-  - Build Tower
+|Split Strings |6 kyu|JavaScript||
+|Good vs Evil |6 kyu|JavaScript||
+|Build Tower |6 kyu|JavaScript||
